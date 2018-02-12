@@ -4,7 +4,7 @@
 
 
 #Make sure your instance has an ec2:describe* role IAM"
-#{
+# {
 #            "Effect": "Allow",
 #            "Action": "ec2:Describe*",
 #            "Resource": "*"
